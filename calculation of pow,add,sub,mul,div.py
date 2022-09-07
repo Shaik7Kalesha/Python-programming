@@ -8,7 +8,7 @@ def mul(m,n):
     return(m*n)
 def div(m,n):
     return(m/n)
-m=int(input("select any operation:-\n"
+b=int(input("select any operation:-\n"
             "1.power\n"
             "2.addition\n"
             "3.subtraction\n"
