@@ -6,7 +6,7 @@ def mul(m,n):
     return(m*n)
 def div(m,n):
     return(m/n)
-m=int(input("select any operation:-\n"
+b=int(input("select any operation:-\n"
             "1.addition\n"
             "2.subtraction\n"
             "3.multiplication\n"
